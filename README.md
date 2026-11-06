@@ -16,7 +16,7 @@ The purpose of this project is to explore how well foundation-model-derived imag
 - This repository provides scripts and example embeddings for research and reproducibility only.  
 - No patient identifiers, PHI, or pixel-level data are stored or shared.  
 - For other disease labels (edema, effusion, and opacity), the same pipeline can be reused with corresponding embeddings.
-- You can see more results for labels (atelectasis, edema, effusion, and opacity) and dataset (MIMIC and NIH14) with detailed methods from the abstract submitted to MedEurIPS 2025 workshop: https://js3320.github.io/files/neurlps_abtract_JihoShin.pdf
+- You can see more results for labels (atelectasis, edema, effusion, and opacity) and dataset (MIMIC and NIH14) with detailed methods from the abstract: https://arxiv.org/abs/2512.06014
 
 ---
 ## Foundation Model Access
@@ -154,8 +154,8 @@ conda activate cxr-benchmark
 
 **Maintainer:** Jiho Shin  
 Biomedical Engineering, Imperial College London  
-Email: jiho.shin20@imperial.ac.uk  
+Email: 0410jiho@gmail.com
 
 ---
 
-*This repository is part of ongoing research on foundation model benchmarking in clinical imaging. Data are shared under institutional agreements. Only MedImageInsight embeddings are available for exploratory analysis and visualization.*
+*This repository is part of ongoing research on foundation model benchmarking in clinical imaging. Data are shared under institutional agreements. Only MedImageInsight embeddings are available for exploratory analysis and visualisation.*
